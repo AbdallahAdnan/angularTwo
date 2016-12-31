@@ -1,0 +1,11 @@
+{
+  "name": "qual_exam",
+  "version": "1.0.0",
+  "description": "This is the pilot project of the Qual-IT company; which contains three parts: development, unit testing, e2e testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdallah.adnan.o@gmail.com",
+  "license": "ISC"
+}
